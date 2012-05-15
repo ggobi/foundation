@@ -1,0 +1,44 @@
+GGobi Foundation Meeting
+24 June 2008
+Bremen, Germany
+
+Present: Debby, Michael, Di, Heike, Hadley, Andreas
+
+Minutes of 7 August 2007:
+  Motion to Approve  [Di, Michael]
+  Approved
+  
+Treasurers report:
+  Presented by Di Cook
+  Motion to Approve [Hadley, Michael]
+  Approved
+  
+GGobi book
+  180 subscribed to mailing list
+  300 downloads in last month
+  476 copies sold
+  Expected from $2,500 book sales
+  
+Planned activities
+  Best interactive graphics screencast
+    - 1 prize for GGobi, 1 prize for more
+    - $200 prize, + free signed copy of GGobi book
+    - really interesting/obscure/unusual data
+    - good example problems for specific feature of GGobi
+    
+    
+  GGobi hack-at-it 
+    - more formal proceedings
+    - GGobi user group afternoon (siggobi) -  attached to JSM
+    - contact mailing list 
+    - workshop in the morning
+    - hack at it 2 days before
+
+  Virtual hack-at-its
+  
+  October, US army conference.  Di giving R introduction
+
+
+Action items:
+  * Debby and Andreas to suggest possible venues for GGobi hack-at-it
+  * Di to touch based with Washington contacts re: room for tutorial

@@ -1,0 +1,37 @@
+GGobi Foundation Meeting
+4 June 2010
+Ames, Iowa
+
+Present: Debby, Michael, Di, Heike, Hadley, Marie
+
+Minutes of last meeting
+  Motion to Approve  [Michael, Heike]
+  Approved
+
+Treasurers report:
+  Presented by Di Cook
+  Motion to Approve [Michael, Hadley]
+  Approved
+
+Election of officers
+  Candidates:  
+    President: Michael
+    Secretary: Hadley
+    Treasurer: Di
+    
+  Approved
+
+New president thanked old president for her service and leadership.
+
+Foundation role in supporting interactive graphics software
+  Emulate bioconductor.
+  Emphasise new work in R.
+  Upcoming conferences (lookingatdata), workshops.
+  Play down role of ggobi software.
+  Minor refresh of site and continued development.
+  Build up blog with dedicated support.
+  Lookingatdata courses need to be tied more closely.
+  Run competitions
+  
+Motion to adjourn [Di, Michael]
+  Passed by acclamation

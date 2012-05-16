@@ -1,0 +1,32 @@
+In attendance:
+  A Buja, H Hofmann (Secretary), D Cook (Treasurer), D Swayne, M Lawrence (President)
+  (Non-members) G Becker, Y Xie, X Cheng
+  Apologies: none
+  
+M. Lawrence called the meeting to order.
+
+Treasurer's report
+* $10,000 in bank
+* $1,000 income from GGobi book
+* Main expense is hack-at-it
+[Motion to approve]: Debby, Lawrence. All ayes.
+
+Planned foundation activities
+* Heike: Sponsor ggplot2 case study competition
+* Di: Encourage interactive graphics
+  * Prize at the JSM for best paper?
+* Michael: social media presence?
+* Di: Revitalise stat graphics video library?
+
+* Video competition
+  * Use interactive graphics
+  * 5 minute video
+  * Advertise widely
+  * Facebook page
+  * Youtube channel
+  * $500 top prize, $100 honourable mention
+  * ask stat graphics section to host videos
+  * solicit proposal for submission process -  Michael volunteers Di: time frame end of August
+  * facebook page for ggobi foundation - Hadley being volunteered  
+  
+[Motion to adjorn]: . All ayes.
